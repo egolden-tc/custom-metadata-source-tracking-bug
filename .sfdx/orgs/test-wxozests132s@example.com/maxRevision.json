@@ -1,0 +1,65 @@
+{
+  "serverMaxRevisionCounter": 16,
+  "sourceMembers": {
+    "CustomField__Sample_Type__mdt.Sample_Text_Field__c": {
+      "serverRevisionCounter": 8,
+      "lastRetrievedFromServer": 8,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "Profile__Admin": {
+      "serverRevisionCounter": 15,
+      "lastRetrievedFromServer": 15,
+      "memberType": "Profile",
+      "isNameObsolete": false
+    },
+    "Profile__ReadOnly": {
+      "serverRevisionCounter": 5,
+      "lastRetrievedFromServer": 5,
+      "memberType": "Profile",
+      "isNameObsolete": false
+    },
+    "Profile__Custom: Sales Profile": {
+      "serverRevisionCounter": 3,
+      "lastRetrievedFromServer": 3,
+      "memberType": "Profile",
+      "isNameObsolete": false
+    },
+    "Profile__Custom: Marketing Profile": {
+      "serverRevisionCounter": 4,
+      "lastRetrievedFromServer": 4,
+      "memberType": "Profile",
+      "isNameObsolete": false
+    },
+    "Profile__Custom: Support Profile": {
+      "serverRevisionCounter": 1,
+      "lastRetrievedFromServer": 1,
+      "memberType": "Profile",
+      "isNameObsolete": false
+    },
+    "Layout__Sample_Type__mdt-Sample Type Layout": {
+      "serverRevisionCounter": 9,
+      "lastRetrievedFromServer": 9,
+      "memberType": "Layout",
+      "isNameObsolete": false
+    },
+    "CustomObject__Sample_Type__mdt": {
+      "serverRevisionCounter": 7,
+      "lastRetrievedFromServer": 7,
+      "memberType": "CustomObject",
+      "isNameObsolete": false
+    },
+    "ApexClass__SampleMetadataDeployCallback": {
+      "serverRevisionCounter": 13,
+      "lastRetrievedFromServer": 13,
+      "memberType": "ApexClass",
+      "isNameObsolete": false
+    },
+    "ApexClass__SampleMetadataRecordCreate": {
+      "serverRevisionCounter": 16,
+      "lastRetrievedFromServer": 16,
+      "memberType": "ApexClass",
+      "isNameObsolete": false
+    }
+  }
+}

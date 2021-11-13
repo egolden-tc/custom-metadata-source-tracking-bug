@@ -1,0 +1,246 @@
+{
+  "/Users/erigolden/Development/custom-md-issue/force-app": {
+    "sourcePath": "/Users/erigolden/Development/custom-md-issue/force-app",
+    "isDirectory": true,
+    "size": 96,
+    "modifiedTime": 1636810278834,
+    "changeTime": 1636810278834,
+    "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+    "state": "u",
+    "isArtifactRoot": true,
+    "package": "force-app"
+  },
+  "/Users/erigolden/Development/custom-md-issue/force-app/main": {
+    "sourcePath": "/Users/erigolden/Development/custom-md-issue/force-app/main",
+    "isDirectory": true,
+    "size": 96,
+    "modifiedTime": 1636810278834,
+    "changeTime": 1636810278834,
+    "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+    "state": "u",
+    "package": "force-app"
+  },
+  "/Users/erigolden/Development/custom-md-issue/force-app/main/default": {
+    "sourcePath": "/Users/erigolden/Development/custom-md-issue/force-app/main/default",
+    "isDirectory": true,
+    "size": 224,
+    "modifiedTime": 1636810819919,
+    "changeTime": 1636810819919,
+    "contentHash": "ce6bb21f0427a2ca0238f7bcec8b978ffd204e9b",
+    "state": "u",
+    "package": "force-app",
+    "deferContentHash": true
+  },
+  "/Users/erigolden/Development/custom-md-issue/force-app/main/default/aura": {
+    "sourcePath": "/Users/erigolden/Development/custom-md-issue/force-app/main/default/aura",
+    "isDirectory": true,
+    "size": 64,
+    "modifiedTime": 1636810278834,
+    "changeTime": 1636810278834,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "u",
+    "package": "force-app"
+  },
+  "/Users/erigolden/Development/custom-md-issue/force-app/main/default/lwc": {
+    "sourcePath": "/Users/erigolden/Development/custom-md-issue/force-app/main/default/lwc",
+    "isDirectory": true,
+    "size": 96,
+    "modifiedTime": 1636810291883,
+    "changeTime": 1636810291883,
+    "contentHash": "56f2d335ffa27c20b4ea310cf0214fa96f325894",
+    "state": "u",
+    "package": "force-app"
+  },
+  "/Users/erigolden/Development/custom-md-issue": {
+    "sourcePath": "/Users/erigolden/Development/custom-md-issue",
+    "isDirectory": true,
+    "size": 288,
+    "modifiedTime": 1636810927573,
+    "changeTime": 1636810927573,
+    "contentHash": "af5a49d453eba7b43740dd8f4b7da1a397af6405",
+    "state": "u",
+    "isWorkspace": true,
+    "deferContentHash": true
+  },
+  "/Users/erigolden/Development/custom-md-issue/force-app/main/default/objects/Sample_Type__mdt": {
+    "sourcePath": "/Users/erigolden/Development/custom-md-issue/force-app/main/default/objects/Sample_Type__mdt",
+    "isDirectory": true,
+    "size": 128,
+    "modifiedTime": 1636810498479,
+    "changeTime": 1636810498479,
+    "contentHash": "6bd93e30b1c94e7173e0dce61eda47efc3f1866c",
+    "state": "u",
+    "package": "force-app"
+  },
+  "/Users/erigolden/Development/custom-md-issue/force-app/main/default/objects": {
+    "sourcePath": "/Users/erigolden/Development/custom-md-issue/force-app/main/default/objects",
+    "isDirectory": true,
+    "size": 96,
+    "modifiedTime": 1636810498478,
+    "changeTime": 1636810498478,
+    "contentHash": "5a277f66b256bd041e88ab048ca041cf3ef7883a",
+    "state": "u",
+    "package": "force-app"
+  },
+  "/Users/erigolden/Development/custom-md-issue/force-app/main/default/objects/Sample_Type__mdt/fields": {
+    "sourcePath": "/Users/erigolden/Development/custom-md-issue/force-app/main/default/objects/Sample_Type__mdt/fields",
+    "isDirectory": true,
+    "size": 96,
+    "modifiedTime": 1636810498480,
+    "changeTime": 1636810498480,
+    "contentHash": "3dda3e7c07a58c989dc644879dc6b65ca49d5c87",
+    "state": "u",
+    "package": "force-app"
+  },
+  "/Users/erigolden/Development/custom-md-issue/force-app/main/default/layouts": {
+    "sourcePath": "/Users/erigolden/Development/custom-md-issue/force-app/main/default/layouts",
+    "isDirectory": true,
+    "size": 96,
+    "modifiedTime": 1636810498484,
+    "changeTime": 1636810498484,
+    "contentHash": "b7df837fc3d41c85dafce1526dd75bc66c03fda2",
+    "state": "u",
+    "package": "force-app"
+  },
+  "/Users/erigolden/Development/custom-md-issue/force-app/main/default/objects/Sample_Type__mdt/Sample_Type__mdt.object-meta.xml": {
+    "sourcePath": "/Users/erigolden/Development/custom-md-issue/force-app/main/default/objects/Sample_Type__mdt/Sample_Type__mdt.object-meta.xml",
+    "size": 229,
+    "modifiedTime": 1636810498479,
+    "changeTime": 1636810498479,
+    "contentHash": "8b57884744d78cee5041d9491991720031733396",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "CustomObject"
+  },
+  "/Users/erigolden/Development/custom-md-issue/force-app/main/default/layouts/Sample_Type__mdt-Sample Type Layout.layout-meta.xml": {
+    "sourcePath": "/Users/erigolden/Development/custom-md-issue/force-app/main/default/layouts/Sample_Type__mdt-Sample Type Layout.layout-meta.xml",
+    "size": 2346,
+    "modifiedTime": 1636810498484,
+    "changeTime": 1636810498484,
+    "contentHash": "f03ae2a954fd145863e224780535730342b7390b",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "Layout"
+  },
+  "/Users/erigolden/Development/custom-md-issue/force-app/main/default/objects/Sample_Type__mdt/fields/Sample_Text_Field__c.field-meta.xml": {
+    "sourcePath": "/Users/erigolden/Development/custom-md-issue/force-app/main/default/objects/Sample_Type__mdt/fields/Sample_Text_Field__c.field-meta.xml",
+    "size": 405,
+    "modifiedTime": 1636810498480,
+    "changeTime": 1636810498480,
+    "contentHash": "d7195ab1276f4cbf6643d38e0ede023cccbef801",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "CustomField"
+  },
+  "/Users/erigolden/Development/custom-md-issue/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml": {
+    "sourcePath": "/Users/erigolden/Development/custom-md-issue/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+    "size": 4730,
+    "modifiedTime": 1636810498507,
+    "changeTime": 1636810498507,
+    "contentHash": "c98814b887bb2d4ea7c18059ed662a8202d2907a",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "Profile"
+  },
+  "/Users/erigolden/Development/custom-md-issue/force-app/main/default/profiles/Admin.profile-meta.xml": {
+    "sourcePath": "/Users/erigolden/Development/custom-md-issue/force-app/main/default/profiles/Admin.profile-meta.xml",
+    "size": 21246,
+    "modifiedTime": 1636810498504,
+    "changeTime": 1636810498504,
+    "contentHash": "1221af8a402b4530e2d7604125f1fe73d28f8436",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "Profile"
+  },
+  "/Users/erigolden/Development/custom-md-issue/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml": {
+    "sourcePath": "/Users/erigolden/Development/custom-md-issue/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+    "size": 5068,
+    "modifiedTime": 1636810498492,
+    "changeTime": 1636810498492,
+    "contentHash": "276d94951d5ce2d7a8fdc8ea02ac8f26c738a15c",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "Profile"
+  },
+  "/Users/erigolden/Development/custom-md-issue/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml": {
+    "sourcePath": "/Users/erigolden/Development/custom-md-issue/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+    "size": 4730,
+    "modifiedTime": 1636810498510,
+    "changeTime": 1636810498510,
+    "contentHash": "c98814b887bb2d4ea7c18059ed662a8202d2907a",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "Profile"
+  },
+  "/Users/erigolden/Development/custom-md-issue/force-app/main/default/profiles/ReadOnly.profile-meta.xml": {
+    "sourcePath": "/Users/erigolden/Development/custom-md-issue/force-app/main/default/profiles/ReadOnly.profile-meta.xml",
+    "size": 4314,
+    "modifiedTime": 1636810498512,
+    "changeTime": 1636810498512,
+    "contentHash": "ee545aedc0873a8366e21a123f8df18d6084ccf8",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "Profile"
+  },
+  "/Users/erigolden/Development/custom-md-issue/force-app/main/default/classes": {
+    "sourcePath": "/Users/erigolden/Development/custom-md-issue/force-app/main/default/classes",
+    "isDirectory": true,
+    "size": 192,
+    "modifiedTime": 1636810703350,
+    "changeTime": 1636810703350,
+    "contentHash": "f95bc11608dee5a08a9cf1b93351349be5bc1b53",
+    "state": "u",
+    "package": "force-app"
+  },
+  "/Users/erigolden/Development/custom-md-issue/force-app/main/default/classes/SampleMetadataDeployCallback.cls": {
+    "sourcePath": "/Users/erigolden/Development/custom-md-issue/force-app/main/default/classes/SampleMetadataDeployCallback.cls",
+    "size": 226,
+    "modifiedTime": 1636810786460,
+    "changeTime": 1636810786460,
+    "contentHash": "1bfd04a6ad133b697f36ba9e5d03228b69281ce6",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "ApexClass"
+  },
+  "/Users/erigolden/Development/custom-md-issue/force-app/main/default/classes/SampleMetadataDeployCallback.cls-meta.xml": {
+    "sourcePath": "/Users/erigolden/Development/custom-md-issue/force-app/main/default/classes/SampleMetadataDeployCallback.cls-meta.xml",
+    "size": 174,
+    "modifiedTime": 1636810703350,
+    "changeTime": 1636810703350,
+    "contentHash": "d47fd6b1e2658ef3bf1ffd156c6bbfef9f9f3172",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "ApexClass"
+  },
+  "/Users/erigolden/Development/custom-md-issue/force-app/main/default/classes/SampleMetadataRecordCreate.cls": {
+    "sourcePath": "/Users/erigolden/Development/custom-md-issue/force-app/main/default/classes/SampleMetadataRecordCreate.cls",
+    "size": 1426,
+    "modifiedTime": 1636811047758,
+    "changeTime": 1636811047758,
+    "contentHash": "5e56d13d4546526e402ffff63b47eb90c4063abc",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "ApexClass",
+    "deferContentHash": true
+  },
+  "/Users/erigolden/Development/custom-md-issue/force-app/main/default/classes/SampleMetadataRecordCreate.cls-meta.xml": {
+    "sourcePath": "/Users/erigolden/Development/custom-md-issue/force-app/main/default/classes/SampleMetadataRecordCreate.cls-meta.xml",
+    "size": 174,
+    "modifiedTime": 1636810580306,
+    "changeTime": 1636810580306,
+    "contentHash": "d47fd6b1e2658ef3bf1ffd156c6bbfef9f9f3172",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "ApexClass"
+  }
+}
